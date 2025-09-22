@@ -6,6 +6,7 @@ I’m a passionate developer focused on building scalable and maintainable appli
 From frontend to backend, I design robust systems while bridging the gap between development and operations.  
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=E69D34&center=true&vCenter=true&lines=Hi+there!+👋;I'm+İsmail+İşler;Full+Stack+Developer;Microservices+Architect;DevOps+%26+Linux+Advocate)](https://git.io/typing-svg)
 
 ### 🔧 Technologies & Tools
 - **Frontend:** React, Next.js, TailwindCSS  
