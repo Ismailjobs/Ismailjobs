@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm İsmail İşler
 
-<!--
-**Ismailjobs/Ismailjobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Microservices Enthusiast | DevOps & Linux Advocate**
 
-Here are some ideas to get you started:
+I’m a passionate developer focused on building scalable and maintainable applications with **microservice architecture**.  
+From frontend to backend, I design robust systems while bridging the gap between development and operations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL  
+- **Architecture:** Microservices, REST APIs, GraphQL  
+- **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD  
+- **Cloud:** AWS, Azure  
+- **Systems:** Linux, Bash scripting, Server administration  
+
+---
+
+### 📈 GitHub Stats
+![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail_bb_&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail_bb_&layout=compact&theme=radical)
+
+---
+
+### 🌱 Currently
+- Learning **advanced DevOps practices**  
+- Exploring **system design and distributed systems**  
+- Working on **open source contributions**  
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourhandle)  
+- [Portfolio Website](https://yourwebsite.com)  
+
+---
+⭐️ From [ismail_bb_](https://github.com/ismail_bb_)
