@@ -18,8 +18,8 @@ From frontend to backend, I design robust systems while bridging the gap between
 ---
 
 ### 📈 GitHub Stats
-![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail_bb_&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail_bb_&layout=compact&theme=radical)
+![İsmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismailjobs&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailjobs&layout=compact&theme=radical)
 
 ---
 
