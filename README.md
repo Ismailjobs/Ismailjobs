@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=E69D34&center=true&vCenter=true&lines=Hi+there+👋;I'm+İsmail+İşler;Full+Stack+Developer;Microservices+Arch.;DevOps+Enthusiast;Open+Source+Contributor;Linux+%26+Cloud+Lover)](https://git.io/typing-svg)
 
 🚀 **Full Stack Developer | Microservices Enthusiast | DevOps & Linux Advocate**
+![waves](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=40&animation=fadeIn&fontAlignY=35)
+
 
 I’m a passionate developer focused on building scalable and maintainable applications with **microservice architecture**.  
 From frontend to backend, I design robust systems while bridging the gap between development and operations.  
