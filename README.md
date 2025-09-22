@@ -1,5 +1,5 @@
 # Hi there, I'm İsmail İşler
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=E69D34&center=true&vCenter=true&lines=Hi+there+👋;I'm+İsmail+İşler;Full+Stack+Developer;Microservices+Arch.+%26+DevOps+Enthusiast;Open+Source+Contributor;Linux+%26+Cloud+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=E69D34&center=true&vCenter=true&lines=Hi+there+👋;I'm+İsmail+İşler;Full+Stack+Developer;Microservices+Arch.;DevOps+Enthusiast;Open+Source+Contributor;Linux+%26+Cloud+Lover)](https://git.io/typing-svg)
 
 🚀 **Full Stack Developer | Microservices Enthusiast | DevOps & Linux Advocate**
 
