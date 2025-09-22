@@ -31,9 +31,7 @@ From frontend to backend, I design robust systems while bridging the gap between
 ---
 
 ### 📫 Connect with me
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio Website](https://yourwebsite.com)  
-
+- [LinkedIn](www.linkedin.com/in/ismail-işler-4114b7280)
+  
 ---
-⭐️ From [ismail_bb_](https://github.com/ismail_bb_)
+⭐️ From [ismail_bb_](https://github.com/Ismailjobs)
